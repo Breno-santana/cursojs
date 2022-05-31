@@ -3,16 +3,14 @@ let sele = document.getElementById('analise');
 let btn1 = document.getElementById('btn-1'); 
 let btn2 = document.getElementById('btn-2');
 let res = document.querySelector('.saida');
+let
 
-btn1.addEventListener('click', adicionar);
+//btn1.addEventListener('click', adicionar = () =>{});
 
-function adicionar(){
-    if(inp == 0){
-        alert('[ERRO n]');
+btn2.addEventListener('click', finalizar = () =>{
+    alert('todo ok');
+    //res.innerHTML = 'gfgfgfhgh';
+    //section.style.backgroundColor='orange';
+});
 
-    }
-}
 
-//btn2.addEventListener('click', finalizar);
-
-//function finalizar(){}
