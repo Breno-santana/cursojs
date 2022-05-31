@@ -8,7 +8,7 @@ btn1.addEventListener('click', adicionar);
 
 function adicionar(){
     if(inp == 0){
-        alert('[ERRO]');
+        alert('[ERRO n]');
 
     }
 }
